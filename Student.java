@@ -5,8 +5,8 @@ public Student
 		
 		string name="ramkumar";
 		int age=25;
-		school="goverment college";
-		course= "BSC";
+		String College_Type="goverment college";
+		String course= "B.sc., computer science";
 	}
 	
 }

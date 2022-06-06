@@ -4,9 +4,8 @@ public Student
 	{
 		
 		string name="raja";
-		int age=35;
-		college="goverment college";
-		department="cse";
+		String college_Type="goverment college";
+		department="CSE";
 	}
 	
 }
